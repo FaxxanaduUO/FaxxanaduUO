@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaxxanaduUO
 - 👀 I’m interested in Sphereserver UO development.
 - 🌱 I’m currently learning how to fix/add features to scps.
-- 💞️ I’m looking to collaborate on Sphereserver development.
+- 💞️ I’m looking to collaborate on Sphereserver development. I am by no means a professional.
 - 📫 How to reach me ...
 
 <!---
